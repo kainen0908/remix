@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "major",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "schoolName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter6/Ex6_6.sol": "MusicStudent"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter6/Ex6_6.sol": {
+			"keccak256": "0xce7fab6bd918cca47a98b92b0bfad84634694b7fe247e50bc111efc1f47d8a24",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://e9e4d21003508022c5c80c58884d9d4354d99c04a543b454c7170060c86bfde4",
+				"dweb:/ipfs/QmV4P1BGWigVeEzBMxpH342RcJTXZ8EvY9Z8APC5BpNmfJ"
+			]
+		}
+	},
+	"version": 1
+}

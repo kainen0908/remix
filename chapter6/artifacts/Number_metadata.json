@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "changeNum",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getNum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter6/Ex6_7.sol": "Number"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter6/Ex6_7.sol": {
+			"keccak256": "0x5a66594e6d2ec0cb1078ff2d5a7cead5d9e86759c9541d670c3c04f22f5db2bf",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://f3a8a7dfbbb176b2383a1b28a3cf856ed1901195c5edd7d874f806d2adfc8004",
+				"dweb:/ipfs/Qma5dMpZU7zGFRKxf4FjwX1Bd1LvmNxhck6KjVPZWE1z3H"
+			]
+		}
+	},
+	"version": 1
+}
