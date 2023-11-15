@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "myFun",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter3/Ex3_10.sol": "Ex3_10"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter3/Ex3_10.sol": {
+			"keccak256": "0x4a7b0e896bead939a9bfe26a28fedc46d1d009ba4e3af9e19b1bb5611adb48db",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a4a2ec50d836b1ecbc80d6e24ec600fca3adeff827e1ece09dd97f7ce0fcf4f8",
+				"dweb:/ipfs/QmZmA6FZHne9mMaMQF3MrAWduFwe9EYjRa5ycu5aTAfGVf"
+			]
+		}
+	},
+	"version": 1
+}
