@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assignment",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter2/Ex2_2.sol": "Ex2_2"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter2/Ex2_2.sol": {
+			"keccak256": "0x88ced55ff0abab03379368294dcba938eb7dc965edbeb00b5fa064b7cd2f192b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1d651de239b27fffb0645d5c716e9d03b441d71a14df0b318b089f659d9306ac",
+				"dweb:/ipfs/QmVxGeURwpXzusjWiP2eLMLMBUkLZLdFPqTdxnsuWYSvyj"
+			]
+		}
+	},
+	"version": 1
+}
