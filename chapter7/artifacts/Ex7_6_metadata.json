@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					}
+				],
+				"name": "revertFunction",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter7/Ex7_6.sol": "Ex7_6"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter7/Ex7_6.sol": {
+			"keccak256": "0x917bde22e992aceeb94b2e711cac36427bd8e5f6eed490f549d7a06259557c97",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://45997eb61e628884bde92941be070a7e88ccf9cb15ea03309f8a3fd239eaa59f",
+				"dweb:/ipfs/QmNnx6cXmtdgXgFRUZgVdnfebSKt1qdFFuruix9krniwxv"
+			]
+		}
+	},
+	"version": 1
+}
