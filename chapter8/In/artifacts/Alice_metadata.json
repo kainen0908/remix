@@ -1,0 +1,145 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "schoolHours",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "schoolName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "time",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "totalHours",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "workPlace",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "workingHours",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter8/In/Ex8_4.sol": "Alice"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter8/Ex8_4_1.sol": {
+			"keccak256": "0x852614690eed01e24eefa94e0b2719bbdc0c81f4ee9305ee58d82cddd0a830b1",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://53c9c2129c0d5f1a62d3656f97eeb079614004e21d653ad44c5d0cbe265c66df",
+				"dweb:/ipfs/QmUPn7XmZyaZBxJzLU5tS8wQ63BAwsEnvERTZ527Y4NiXj"
+			]
+		},
+		"chapter8/In/Ex8_4.sol": {
+			"keccak256": "0x6d9efec58231b70abb37670d26282b6a2051b3017e0691507d37f32fdc609c4e",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://ea0e385de5e1321a68cb3ff6780e4488503c10bcd28f43f639b377768a9a26fb",
+				"dweb:/ipfs/QmYEbjDVu1ThncCcVrEhLmc1uj9TUnZ5pHyosP9QZ8NDKf"
+			]
+		},
+		"chapter8/In/Ex8_4_2.sol": {
+			"keccak256": "0xbcbf67734e0d1a1a1b835f3cb8f111acd74b4f3e605ba91f81ff7618b4f89d59",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d63fb20165d41f13fbf1706c8453c41e8f0eb8d0a7a45a4c875fc8f42f7ff55d",
+				"dweb:/ipfs/QmNrykWZ94JRZgH8Criw2ajwtFC55gmgJmwewjP9Qeuh2j"
+			]
+		}
+	},
+	"version": 1
+}
