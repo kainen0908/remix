@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_point",
+						"type": "uint256"
+					}
+				],
+				"name": "addPoints",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "total",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter9/Ex9_12.sol": "Points2"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter9/Ex9_12.sol": {
+			"keccak256": "0xde0c6a50b728993bda6e45bce6cc5734536354a3dedc42b5bbb17c118358bb4c",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://fa55916e312bb3e909824bdfb40aabf102dc2e857fd705061ed2d36cd25c47d1",
+				"dweb:/ipfs/QmZy68fWf2LJTKPjNcedZUCFvtiV7URxKZPiRMuy1HeM9V"
+			]
+		}
+	},
+	"version": 1
+}

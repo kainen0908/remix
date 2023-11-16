@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_address",
+						"type": "address"
+					}
+				],
+				"name": "ethDelivery1",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_address",
+						"type": "address"
+					}
+				],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"chapter9/Ex9_4.sol": "Ex9_4"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"chapter9/Ex9_4.sol": {
+			"keccak256": "0x789b2040f5a614af143e9759aa69a0b5f30b31bc187716b7723aea9aaa2704cc",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://9eb7ce5fa271b42c043e10ec1f05d0b36f6bbeeef8fdf9b42e793cb14abb5f08",
+				"dweb:/ipfs/QmbdYp6JCRViELv92y8D6FDfGMrgjk1JwRNGRn3wgn9Lf4"
+			]
+		}
+	},
+	"version": 1
+}
